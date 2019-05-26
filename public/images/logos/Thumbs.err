@@ -1,0 +1,8 @@
+/COM,ANSYS RELEASE 14.5    UP20120918       23:32:35    05/23/2019
+
+ *** ERROR ***                           CP =       0.625   TIME= 23:32:43
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
